@@ -44,7 +44,7 @@ return [
         'local' => [
             'credentials' => [
                 'key' => 'dynamodblocal',
-                'secret' => 'secret',
+                'secret' => '41v2uPDnGi',
             ],
             'region' => 'stub',
              // see http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
